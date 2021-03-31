@@ -1,6 +1,6 @@
 ### Hello there.. 👋
 
-Here are some ideas to get you started:
+This is about me :
 
 - 🔭 I’m currently working on ...University Project
 - 🌱 I’m currently learning ...ReactJs
