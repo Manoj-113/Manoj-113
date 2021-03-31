@@ -1,4 +1,4 @@
-<img align="left" alt="Hi" width="100px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Frapidapi.com%2Fblog%2Fgithub-api-profile-automate-your-github-workflow%2F&psig=AOvVaw1JFn04BAv18Xnm-EzId9QC&ust=1617267779426000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC6jJGW2u8CFQAAAAAdAAAAABAI" /> 
+<img align="left" alt="Hi" width="100px" src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" /> 
 <br>
 <h1 align="left">Hello there... 👋</h1>
 
