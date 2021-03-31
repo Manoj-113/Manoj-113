@@ -22,8 +22,8 @@ This is about me :
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Manoj-113&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Manoj-113&show_icons=true&include_all_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-113&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Manoj-113.Manoj-113)
 
