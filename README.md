@@ -1,7 +1,6 @@
 <img align="left" alt="Hi" width="100px" src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" /> 
 <br>
-<h1 align="left">Hello... 👋</h1>
-<h3>I'm Manoj A. Dharmawardhana</h3>
+<h1 align="left">Hello...👋 I'm Manoj A. Dharmawardhana</h1>
 
 This is about me :
 
