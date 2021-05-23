@@ -38,6 +38,8 @@ This is about me :
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-113&layout=compact&langs_count=8&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-113&hide=TeX&layout=compact)
 
 
