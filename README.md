@@ -50,7 +50,7 @@ This is about me :
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![XD](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-xd)
+  ![XD](https://img.shields.io/badge/-XD-333333?style=flat&logo=adobe-xd)
 
 
 
