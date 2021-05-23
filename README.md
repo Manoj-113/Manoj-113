@@ -42,11 +42,6 @@ This is about me :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-113&hide=TeX&layout=compact)
 
 
-<a href="https://github.com/Manoj-113/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Manoj-113&repo=github-readme-stats" />
-</a>
-
-
 
 
 
