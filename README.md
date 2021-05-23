@@ -1,6 +1,7 @@
 <img align="left" alt="Hi" width="100px" src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" /> 
 <br>
-<h1 align="left">Hello there... 👋</h1>
+<h1 align="left">Hello... 👋</h1>
+<h3>I'm Manoj A. Dharmawardhana</h3>
 
 This is about me :
 
@@ -10,10 +11,6 @@ This is about me :
 - 📫 How to reach me: ...[Linkedin](linkedin.com/in/manoj-a-dharmawardhana-8a9a291a6)
 - 😄 Pronouns: ...He/His
 -->
-[![Twitter](https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=Twitter&link=https://twitter.com/manoj_anuradha/)](https://twitter.com/manoj_anuradha/)
-[![Gmail Badge](https://img.shields.io/badge/-manoj.20191120@iit.ac.lk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manoj.20191120@iit.ac.lk)](mailto:manoj.20191120@iit.ac.lk)
-<a href="https://Manoj-113.github.io"><img src="https://img.shields.io/badge/-Manoj-113.github.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
