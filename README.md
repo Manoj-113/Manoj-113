@@ -10,6 +10,9 @@ This is about me :
 - 📫 How to reach me: ...[Linkedin](linkedin.com/in/manoj-a-dharmawardhana-8a9a291a6)
 - 😄 Pronouns: ...He/His
 -->
+[![Twitter](https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=Twitter&link=https://twitter.com/manoj_anuradha/)](https://twitter.com/manoj_anuradha/)
+[![Gmail Badge](https://img.shields.io/badge/-manoj.20191120@iit.ac.lk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manoj.20191120@iit.ac.lk)](mailto:manoj.20191120@iit.ac.lk)
+<a href="https://Manoj-113.github.io"><img src="https://img.shields.io/badge/-Manoj-113.github.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 
 
 
