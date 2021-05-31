@@ -11,7 +11,6 @@ This is about me :
 - 😄 Pronouns: ...He/His
 -->
 
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
@@ -39,7 +38,6 @@ This is about me :
  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-113&layout=compact&langs_count=8&theme=lite)
-
 
 
 
